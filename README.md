@@ -1,2 +1,2 @@
-# Calculator-app
+# Calculator-UI
 Developed by Shilpa V
